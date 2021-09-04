@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on competetive programming and development
 <!--
 **rajsharma2407/rajsharma2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
