@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAJ SHARMA</h1>
-<h3 align="center">Currently working on Competitive Programming and Web Development</h3>
+<h3 align="center">Currently working on Programming...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma2407&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma2407" /> </p>
 
-- 🌱 I’m currently learning **Hibernate and React JS**
+- 🌱 I’m currently learning **Spring Boot & Django**
 
 - 👯 I’m looking to collaborate on **some opensource projects**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **System design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajsharma2407/](https://github.com/rajsharma2407/)
 
