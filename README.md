@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAJ SHARMA</h1>
-<h3 align="center">Currently working on Programming...</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma2407&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma2407" /> </p>
 
